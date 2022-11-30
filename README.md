@@ -27,4 +27,3 @@ This project has been developed on Android Studio.
 
 
 
-WElcome
