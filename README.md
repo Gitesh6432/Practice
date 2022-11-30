@@ -1,4 +1,4 @@
-# West Management System
+# Waste Management System
 # About:
 
     The Waste Management System is an application for maintaining a reatil and wholsale all type of waste material .
