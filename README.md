@@ -17,7 +17,6 @@
     Android Studio Software
     jdk (>=1.7)
     mysql
-    Eclipse/Netbeans/any other IDE
 
 # Steps:
 
@@ -25,3 +24,7 @@
     Open this project then build & run.
 
 This project has been developed on Android Studio.
+
+
+
+WElcome
